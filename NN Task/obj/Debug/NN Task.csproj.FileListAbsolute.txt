@@ -1,0 +1,108 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\NN Task\NN Task\bin\Debug\NN Task.exe.config
+c:\users\ahmed\documents\visual studio 2015\Projects\NN Task\NN Task\bin\Debug\NN Task.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\NN Task\NN Task\bin\Debug\NN Task.pdb
+c:\users\ahmed\documents\visual studio 2015\Projects\NN Task\NN Task\obj\Debug\NN Task.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2015\Projects\NN Task\NN Task\obj\Debug\NN_Task.Form1.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\NN Task\NN Task\obj\Debug\NN_Task.Properties.Resources.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\NN Task\NN Task\obj\Debug\NN Task.csproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2015\Projects\NN Task\NN Task\obj\Debug\NN Task.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\NN Task\NN Task\obj\Debug\NN Task.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2015\Projects\NN Task - Copy\NN Task\bin\Debug\NN Task.exe.config
+C:\Users\Ahmed\Documents\Visual Studio 2015\Projects\NN Task - Copy\NN Task\obj\Debug\NN Task.exe
+C:\Users\Ahmed\Documents\Visual Studio 2015\Projects\NN Task - Copy\NN Task\obj\Debug\NN Task.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2015\Projects\NN Task - Copy\NN Task\bin\Debug\NN Task.exe
+C:\Users\Ahmed\Documents\Visual Studio 2015\Projects\NN Task - Copy\NN Task\bin\Debug\NN Task.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2015\Projects\NN Task - Copy\NN Task\obj\Debug\NN Task.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Documents\Visual Studio 2015\Projects\NN Task - Copy\NN Task\obj\Debug\NN_Task.Form1.resources
+C:\Users\Ahmed\Documents\Visual Studio 2015\Projects\NN Task - Copy\NN Task\obj\Debug\NN_Task.Properties.Resources.resources
+C:\Users\Ahmed\Documents\Visual Studio 2015\Projects\NN Task - Copy\NN Task\obj\Debug\NN Task.csproj.GenerateResource.Cache
+C:\Users\Condaaa\Desktop\NN Task - Copy\NN Task\bin\Debug\NN Task.exe.config
+C:\Users\Condaaa\Desktop\NN Task - Copy\NN Task\obj\Debug\NN Task.exe
+C:\Users\Condaaa\Desktop\NN Task - Copy\NN Task\obj\Debug\NN Task.pdb
+C:\Users\Condaaa\Desktop\NN Task - Copy\NN Task\bin\Debug\NN Task.exe
+C:\Users\Condaaa\Desktop\NN Task - Copy\NN Task\bin\Debug\NN Task.pdb
+C:\Users\Condaaa\Desktop\NN Task - Copy\NN Task\obj\Debug\NN Task.csprojResolveAssemblyReference.cache
+C:\Users\Condaaa\Desktop\NN Task - Copy\NN Task\obj\Debug\NN_Task.Form1.resources
+C:\Users\Condaaa\Desktop\NN Task - Copy\NN Task\obj\Debug\NN_Task.Properties.Resources.resources
+C:\Users\Condaaa\Desktop\NN Task - Copy\NN Task\obj\Debug\NN Task.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Downloads\Compressed\NN Task - Copy\NN Task\bin\Debug\NN Task.exe.config
+C:\Users\Ahmed\Downloads\Compressed\NN Task - Copy\NN Task\obj\Debug\NN Task.exe
+C:\Users\Ahmed\Downloads\Compressed\NN Task - Copy\NN Task\obj\Debug\NN Task.pdb
+C:\Users\Ahmed\Downloads\Compressed\NN Task - Copy\NN Task\bin\Debug\NN Task.exe
+C:\Users\Ahmed\Downloads\Compressed\NN Task - Copy\NN Task\bin\Debug\NN Task.pdb
+C:\Users\Ahmed\Downloads\Compressed\NN Task - Copy\NN Task\obj\Debug\NN Task.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Downloads\Compressed\NN Task - Copy\NN Task\obj\Debug\NN_Task.Form1.resources
+C:\Users\Ahmed\Downloads\Compressed\NN Task - Copy\NN Task\obj\Debug\NN_Task.Properties.Resources.resources
+C:\Users\Ahmed\Downloads\Compressed\NN Task - Copy\NN Task\obj\Debug\NN Task.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Downloads\Compressed\NN Task\NN Task\bin\Debug\NN Task.exe.config
+C:\Users\Ahmed\Downloads\Compressed\NN Task\NN Task\bin\Debug\NN Task.exe
+C:\Users\Ahmed\Downloads\Compressed\NN Task\NN Task\bin\Debug\NN Task.pdb
+C:\Users\Ahmed\Downloads\Compressed\NN Task\NN Task\obj\Debug\NN_Task.Form1.resources
+C:\Users\Ahmed\Downloads\Compressed\NN Task\NN Task\obj\Debug\NN_Task.Properties.Resources.resources
+C:\Users\Ahmed\Downloads\Compressed\NN Task\NN Task\obj\Debug\NN Task.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Downloads\Compressed\NN Task\NN Task\obj\Debug\NN Task.exe
+C:\Users\Ahmed\Downloads\Compressed\NN Task\NN Task\obj\Debug\NN Task.pdb
+C:\Users\Ahmed\Downloads\Compressed\NN Task\NN Task\obj\Debug\NN Task.csprojResolveAssemblyReference.cache
+E:\Cs\4th Year\Neural\NN Phase 1\NN Task\bin\Debug\NN Task.exe.config
+E:\Cs\4th Year\Neural\NN Phase 1\NN Task\obj\Debug\NN Task.exe
+E:\Cs\4th Year\Neural\NN Phase 1\NN Task\obj\Debug\NN Task.pdb
+E:\Cs\4th Year\Neural\NN Phase 1\NN Task\bin\Debug\NN Task.exe
+E:\Cs\4th Year\Neural\NN Phase 1\NN Task\bin\Debug\NN Task.pdb
+E:\Cs\4th Year\Neural\NN Phase 1\NN Task\obj\Debug\NN Task.csprojResolveAssemblyReference.cache
+E:\Cs\4th Year\Neural\NN Phase 1\NN Task\obj\Debug\NN_Task.Form1.resources
+E:\Cs\4th Year\Neural\NN Phase 1\NN Task\obj\Debug\NN_Task.Properties.Resources.resources
+E:\Cs\4th Year\Neural\NN Phase 1\NN Task\obj\Debug\NN Task.csproj.GenerateResource.Cache
+E:\1-2-3-4-materials\4th year materials\Nural Network\NN Phase 1\NN Task\bin\Debug\NN Task.exe.config
+E:\1-2-3-4-materials\4th year materials\Nural Network\NN Phase 1\NN Task\obj\Debug\NN Task.exe
+E:\1-2-3-4-materials\4th year materials\Nural Network\NN Phase 1\NN Task\obj\Debug\NN Task.pdb
+E:\1-2-3-4-materials\4th year materials\Nural Network\NN Phase 1\NN Task\bin\Debug\NN Task.exe
+E:\1-2-3-4-materials\4th year materials\Nural Network\NN Phase 1\NN Task\bin\Debug\NN Task.pdb
+E:\1-2-3-4-materials\4th year materials\Nural Network\NN Phase 1\NN Task\obj\Debug\NN Task.csprojResolveAssemblyReference.cache
+E:\1-2-3-4-materials\4th year materials\Nural Network\NN Phase 1\NN Task\obj\Debug\NN_Task.Form1.resources
+E:\1-2-3-4-materials\4th year materials\Nural Network\NN Phase 1\NN Task\obj\Debug\NN_Task.Properties.Resources.resources
+E:\1-2-3-4-materials\4th year materials\Nural Network\NN Phase 1\NN Task\obj\Debug\NN Task.csproj.GenerateResource.Cache
+C:\Users\ScreaM\Desktop\NN Phase 1\NN Task\bin\Debug\NN Task.exe.config
+C:\Users\ScreaM\Desktop\NN Phase 1\NN Task\obj\Debug\NN Task.exe
+C:\Users\ScreaM\Desktop\NN Phase 1\NN Task\obj\Debug\NN Task.pdb
+C:\Users\ScreaM\Desktop\NN Phase 1\NN Task\obj\Debug\NN Task.csprojResolveAssemblyReference.cache
+C:\Users\ScreaM\Desktop\NN Phase 1\NN Task\obj\Debug\NN_Task.Form1.resources
+C:\Users\ScreaM\Desktop\NN Phase 1\NN Task\obj\Debug\NN_Task.Properties.Resources.resources
+C:\Users\ScreaM\Desktop\NN Phase 1\NN Task\obj\Debug\NN Task.csproj.GenerateResource.Cache
+C:\Users\ScreaM\Desktop\NN Phase 1\NN Task\bin\Debug\NN Task.exe
+C:\Users\ScreaM\Desktop\NN Phase 1\NN Task\bin\Debug\NN Task.pdb
+C:\Users\omar\Downloads\NN Phase 1\NN Task\bin\Debug\NN Task.exe.config
+C:\Users\omar\Downloads\NN Phase 1\NN Task\obj\Debug\NN Task.exe
+C:\Users\omar\Downloads\NN Phase 1\NN Task\obj\Debug\NN Task.pdb
+C:\Users\omar\Downloads\NN Phase 1\NN Task\bin\Debug\NN Task.exe
+C:\Users\omar\Downloads\NN Phase 1\NN Task\bin\Debug\NN Task.pdb
+C:\Users\omar\Downloads\NN Phase 1\NN Task\obj\Debug\NN Task.csprojResolveAssemblyReference.cache
+C:\Users\omar\Downloads\NN Phase 1\NN Task\obj\Debug\NN_Task.Form1.resources
+C:\Users\omar\Downloads\NN Phase 1\NN Task\obj\Debug\NN_Task.Properties.Resources.resources
+C:\Users\omar\Downloads\NN Phase 1\NN Task\obj\Debug\NN Task.csproj.GenerateResource.Cache
+E:\Cs\4th Year\Neural\NN Phase 2\NN Task\bin\Debug\NN Task.exe.config
+E:\Cs\4th Year\Neural\NN Phase 2\NN Task\bin\Debug\NN Task.exe
+E:\Cs\4th Year\Neural\NN Phase 2\NN Task\bin\Debug\NN Task.pdb
+E:\Cs\4th Year\Neural\NN Phase 2\NN Task\obj\Debug\NN_Task.Form1.resources
+E:\Cs\4th Year\Neural\NN Phase 2\NN Task\obj\Debug\NN_Task.Properties.Resources.resources
+E:\Cs\4th Year\Neural\NN Phase 2\NN Task\obj\Debug\NN Task.csproj.GenerateResource.Cache
+E:\Cs\4th Year\Neural\NN Phase 2\NN Task\obj\Debug\NN Task.exe
+E:\Cs\4th Year\Neural\NN Phase 2\NN Task\obj\Debug\NN Task.pdb
+E:\Cs\4th Year\Neural\NN Phase 2\NN Task\obj\Debug\NN Task.csprojResolveAssemblyReference.cache
+C:\Users\Condaaa\Desktop\NN Phase 2\NN Task\bin\Debug\NN Task.exe.config
+C:\Users\Condaaa\Desktop\NN Phase 2\NN Task\obj\Debug\NN Task.exe
+C:\Users\Condaaa\Desktop\NN Phase 2\NN Task\obj\Debug\NN Task.pdb
+C:\Users\Condaaa\Desktop\NN Phase 2\NN Task\bin\Debug\NN Task.exe
+C:\Users\Condaaa\Desktop\NN Phase 2\NN Task\bin\Debug\NN Task.pdb
+C:\Users\Condaaa\Desktop\NN Phase 2\NN Task\obj\Debug\NN Task.csprojResolveAssemblyReference.cache
+C:\Users\Condaaa\Desktop\NN Phase 2\NN Task\obj\Debug\NN_Task.Form1.resources
+C:\Users\Condaaa\Desktop\NN Phase 2\NN Task\obj\Debug\NN_Task.Properties.Resources.resources
+C:\Users\Condaaa\Desktop\NN Phase 2\NN Task\obj\Debug\NN Task.csproj.GenerateResource.Cache
+E:\FCIS\4th year materials\1st semester\Artificial Neural Network\Project\Project\NN Phase 2\NN Task\bin\Debug\NN Task.exe.config
+E:\FCIS\4th year materials\1st semester\Artificial Neural Network\Project\Project\NN Phase 2\NN Task\obj\Debug\NN Task.exe
+E:\FCIS\4th year materials\1st semester\Artificial Neural Network\Project\Project\NN Phase 2\NN Task\obj\Debug\NN Task.pdb
+E:\FCIS\4th year materials\1st semester\Artificial Neural Network\Project\Project\NN Phase 2\NN Task\bin\Debug\NN Task.exe
+E:\FCIS\4th year materials\1st semester\Artificial Neural Network\Project\Project\NN Phase 2\NN Task\bin\Debug\NN Task.pdb
+E:\FCIS\4th year materials\1st semester\Artificial Neural Network\Project\Project\NN Phase 2\NN Task\obj\Debug\NN Task.csprojResolveAssemblyReference.cache
+E:\FCIS\4th year materials\1st semester\Artificial Neural Network\Project\Project\NN Phase 2\NN Task\obj\Debug\NN_Task.Form1.resources
+E:\FCIS\4th year materials\1st semester\Artificial Neural Network\Project\Project\NN Phase 2\NN Task\obj\Debug\NN_Task.Properties.Resources.resources
+E:\FCIS\4th year materials\1st semester\Artificial Neural Network\Project\Project\NN Phase 2\NN Task\obj\Debug\NN Task.csproj.GenerateResource.Cache
